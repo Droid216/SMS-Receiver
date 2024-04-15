@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Перехватчик СМС</string>
+    <string name="switch_sms_receiver">SMS Receiver Off/On</string>
+    <string name="edit_text_token">Введите токен бота</string>
+    <string name="edit_text_id_chat">Введите ID чата</string>
+    <string name="text_view_token">Токен бота</string>
+    <string name="text_view_id_chat">ID чата</string>
+</resources>
